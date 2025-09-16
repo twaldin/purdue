@@ -10,3 +10,6 @@
 [submodule "fa25/ece264/hw/hw04-analyze-binary-files-spring-2025-twaldin"]
 	path = fa25/ece264/hw/hw04-analyze-binary-files-spring-2025-twaldin
 	url = https://github.com/ECE264-2025Fall-WL/hw04-analyze-binary-files-spring-2025-twaldin.git
+[submodule "fa25/ece264/hw/hw05-qsort-twaldin"]
+	path = fa25/ece264/hw/hw05-qsort-twaldin
+	url = https://github.com/ECE264-2025Fall-WL/hw05-qsort-twaldin.git

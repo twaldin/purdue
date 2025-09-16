@@ -1,17 +1,16 @@
 # Assignments
 
 ## MA 261
- - Next Pearson HW due 9/04 11:59 pm
+ - Next Pearson HW due 9/16 11:59 pm, first set done, second due.
 
 ## ECE 264
- - in class programming assignment 9/04
- - hw 03 and 04 on gradescope, due 9/17 11:59
+ - hw 05 on gradescope, due 9/29 11:59 pm
 
 ## ECE 20001
- - HW02 due 9/09 11:57 pm
+ - HW03 due 9/16 11:57 pm
 
 ## ECE 20007
- - Lab? first class fri
+ - Lab 02 notebook & writeup due 9/19 11:59 pm
 
 ## ECE 20869
- - HW 01 Due 9/7? not released yet
+ - Idk
