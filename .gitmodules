@@ -13,3 +13,6 @@
 [submodule "fa25/ece264/hw/hw05-qsort-twaldin"]
 	path = fa25/ece264/hw/hw05-qsort-twaldin
 	url = https://github.com/ECE264-2025Fall-WL/hw05-qsort-twaldin.git
+[submodule "fa25/ece264/hw/in-class-programming-assignment-2-twaldin"]
+	path = fa25/ece264/hw/in-class-programming-assignment-2-twaldin
+	url = https://github.com/ECE264-2025Fall-WL/in-class-programming-assignment-2-twaldin.git
