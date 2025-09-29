@@ -13,4 +13,4 @@
  - Lab 03 notebook & writeup due 10/3 11:59 pm
 
 ## ECE 20869
- - hw03 due ? 11:59 pm
+ - hw03 due 10/01 11:59 pm
