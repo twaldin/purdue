@@ -1,3 +1,4 @@
+// hw2.typ
 #import "@preview/truthfy:0.5.0": truth-table, truth-table-empty
 
 #set page(
